@@ -1,0 +1,8 @@
+azure-common     
+azure-core                
+azure-identity
+azure-nspkg              
+azure-storage-common
+azure-storage-blob
+azure-storage-file-datalake
+azure-storage-file

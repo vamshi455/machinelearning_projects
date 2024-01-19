@@ -1,0 +1,6 @@
+# Exclude large files
+venv/
+
+# Exclude log files
+*.log
+*.pkl

@@ -1,0 +1,11 @@
+Equipment_ID,Material_Type,Coating_Type,Equipment_Age
+EQ001,Carbon Steel,Paint,5
+EQ002,Stainless Steel,Coated,10
+EQ003,Aluminum,Uncoated,8
+EQ004,Carbon Steel,Paint,12
+EQ005,Stainless Steel,Coated,15
+EQ006,Carbon Steel,Uncoated,7
+EQ007,Stainless Steel,Paint,9
+EQ008,Aluminum,Uncoated,6
+EQ009,Carbon Steel,Coated,11
+EQ010,Stainless Steel,Coated,13
